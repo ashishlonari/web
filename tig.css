@@ -1,0 +1,13 @@
+.navbar{
+	margin-bottom: 100px;
+	background-color: black;
+}
+.container{
+	height: 2000px;
+	width: 1600px;
+}
+.bag{
+	background-color: black;
+	height: 350px;
+	width: 500px;
+}
